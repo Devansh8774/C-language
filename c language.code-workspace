@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"math.h": "c",
+			"HW QUESTIONS.C": "cpp",
+			"09 HW QUESTIONS.C": "cpp",
+			"IMP.C": "cpp"
+		}
+	}
+}
